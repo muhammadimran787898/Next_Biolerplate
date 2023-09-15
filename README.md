@@ -88,4 +88,4 @@ See [LICENSE](LICENSE) for more information.
 
 ---
 
-Made with much :heart: and :muscle: by Mateusz Hadryś :blush: <a href="https://www.linkedin.com/in/mateusz-hadry%C5%9B/">My Contact</a>
+
